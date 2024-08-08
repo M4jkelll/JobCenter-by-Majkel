@@ -1,0 +1,1 @@
+Do skryptu został dołożony skrypt ped_spawner który NIE JEST WYKONANY PRZEZE MNIE !!! ale jest on potrzebny do korzystania z job center dodatkowo do skryptu trzeba pobrac OX_target i ox_lib aby cały skrypt wogółe działał  
